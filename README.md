@@ -1,7 +1,12 @@
 # Reproducibility
+This repository contains code and instructions for reproducing the computational results
+presented in
 
-Please add instructions to reproduce each figure and table.
-This includes both running the simulations and postprocessing/plotting.
+> *A Hyperbolic Approximation of the Nonlinear Schrodinger Equation*, by A. Biswas, L. S. Busaleh,
+C. Munoz-Moncayo, and Manvendra Rajvanshi.
+
+The preprint can be found at https://arxiv.org/pdf/2505.21424.
+
 ## Requirements
 The required Python packages can be found in `requirements.txt` and installed by running, e.g.,
 
